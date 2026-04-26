@@ -14,15 +14,6 @@ Também sou COO da **Calmô**, uma startup focada em saúde mental, bem-estar e 
 
 </td>
 
-<td width="40%" align="center">
-
-<img src="https://github.com/Savio-Torres.png" width="230px" style="border-radius: 50%;" />
-
-> Construindo tecnologia com propósito, focado em impacto real e soluções que escalam.
-
-</td>
-</tr>
-</table>
 
 ---
 
