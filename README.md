@@ -1,16 +1,117 @@
-## Hi there 👋
+# Opa! Eu sou o Sávio Torres 
 
-<!--
-**Savio-Torres/Savio-Torres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td width="60%">
 
-Here are some ideas to get you started:
+## Desenvolvedor | Gestor de Projetos | COO da Calmô
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia, desenvolvimento de soluções reais e projetos com propósito.
+
+Atualmente atuo na **Prefeitura de Paulista** com suporte técnico, redes e manutenção de computadores.
+
+Também sou COO da **Calmô**, uma startup focada em saúde mental, bem-estar e apoio a pessoas neurodivergentes.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github.com/Savio-Torres.png" width="230px" style="border-radius: 50%;" />
+
+> Construindo tecnologia com propósito, focado em impacto real e soluções que escalam.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Savio-Torres&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+</td>
+<td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savio-Torres&layout=compact&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Tecnologias que uso
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,git,github,vscode" />
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Calmo
+
+A **Calmo** é uma startup voltada para saúde mental e bem-estar, com foco especial em pessoas neurodivergentes.
+
+A proposta é criar uma plataforma mais acessível, humana e acolhedora, ajudando usuários a entenderem melhor sua rotina, emoções e necessidades.
+
+**Principais ideias:**
+- Acompanhamento da rotina do usuário
+- Coleta de respostas e necessidades reais
+- Dicas e orientações personalizadas
+- Possibilidade de conexão com psicólogos
+- Foco em acessibilidade e neurodivergência
+
+**Tecnologias:** React, TypeScript, Node.js
+
+</td>
+
+<td width="50%">
+
+### 🎉 Sistema de Gestão de Eventos
+
+Sistema SaaS em desenvolvimento para auxiliar empresas na organização, controle e gestão de eventos.
+
+O objetivo é oferecer uma solução escalável para gerenciar usuários, empresas, permissões, planos e operações internas.
+
+**Principais recursos:**
+- Cadastro de empresas
+- Gestão de usuários
+- Controle de assinaturas e planos
+- Organização de eventos
+- Controle operacional
+- Estrutura preparada para expansão
+
+
+</td>
+</tr>
+</table>
+
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Savio-Torres&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+</div>
