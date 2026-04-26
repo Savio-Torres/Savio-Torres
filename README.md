@@ -65,8 +65,6 @@ A proposta é criar uma plataforma mais acessível, humana e acolhedora, ajudand
 - Possibilidade de conexão com psicólogos
 - Foco em acessibilidade e neurodivergência
 
-**Tecnologias:** React, TypeScript, Node.js
-
 </td>
 
 <td width="50%">
