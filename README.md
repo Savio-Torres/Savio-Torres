@@ -9,9 +9,6 @@
 Sou apaixonado por tecnologia, desenvolvimento de soluções reais e projetos com propósito.
 
 Atualmente atuo na **Prefeitura de Paulista** com suporte técnico, redes e manutenção de computadores.
-
-Também sou COO da **Calmô**, uma startup focada em saúde mental, bem-estar e apoio a pessoas neurodivergentes.
-
 </td>
 
 
@@ -52,9 +49,9 @@ Também sou COO da **Calmô**, uma startup focada em saúde mental, bem-estar e 
 <tr>
 <td width="50%">
 
-### 🧠 Calmo
+### 🧠 Calmô
 
-A **Calmo** é uma startup voltada para saúde mental e bem-estar, com foco especial em pessoas neurodivergentes.
+A **Calmô** é um projeto voltada para saúde mental e bem-estar, com foco especial em pessoas neurodivergentes.
 
 A proposta é criar uma plataforma mais acessível, humana e acolhedora, ajudando usuários a entenderem melhor sua rotina, emoções e necessidades.
 
