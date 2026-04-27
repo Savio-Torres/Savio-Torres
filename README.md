@@ -4,7 +4,7 @@
 <tr>
 <td width="60%">
 
-## Desenvolvedor | Gestor de Projetos | COO da Calmô
+## Desenvolvedor | Gestor de Projetos
 
 Sou apaixonado por tecnologia, desenvolvimento de soluções reais e projetos com propósito.
 
